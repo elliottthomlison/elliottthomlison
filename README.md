@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/0DYipdNqJ5n4GYATKL/giphy.gif" width=450px height=400px/>
+<img align="right" src="https://media.giphy.com/media/0DYipdNqJ5n4GYATKL/giphy.gif" width=380px height=330px/>
 
 ### Hi, I'm Elliott 🤓
 
