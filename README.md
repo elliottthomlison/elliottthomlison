@@ -3,9 +3,9 @@
 I've been travelling around the last few years, but I've returned home and landed in front of my computer. I've been creating, debugging, and learning all that it takes to become a developer. As a recent Lighthouse Labs alumni I'm eager to find a workplace where I can learn and contribute. 
 
 - 🔭 I’m working on a few projects as seen on my <a href="elliott2.netlify.app">portfolio</a> 
-- 🌱 I’m learning computer science basics via <a href="https://cs50.harvard.edu/x/2021/">Harvard's CS50</a> and fine tuning my React skills via this Udemy course (https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+- 🌱 I’m learning computer science basics via <a href="https://cs50.harvard.edu/x/2021/">Harvard's CS50</a> and fine tuning my React skills via <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux">this</a> Udemy course
 - 🙏 Fun fact: I'm learning Mandarin at the moment which is definitely more straight forward than Korean  
 - 📫 You can reach me <a href="mailto: elliott.thomlison@gmail.com">here</a>
-- 🍟 Link to my group's midterm project: https://github.com/elliottthomlison/Tapioca-Loca
-- 🤳 Link to my group's final project: https://github.com/elliottthomlison/MiCasa
-- 💸 Link to my ecommerce project: https://github.com/elliottthomlison/Online-Store
+- 🍟 Here is a link to my group's midterm project: <a href="https://github.com/elliottthomlison/Tapioca-Loca">Tapioca Loca</a>
+- 🤳 Here is a link  to my group's final project: <a href="https://github.com/elliottthomlison/MiCasa">MiCasa</a>
+- 💸 Here is a link  to my ecommerce project: <a href="https://github.com/elliottthomlison/Online-Store">Online Store</a>
