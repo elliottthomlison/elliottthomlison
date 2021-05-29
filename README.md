@@ -1,4 +1,4 @@
-<iframe src="https://gifer.com/embed/MN7A" width=480 height=362.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img src="https://gifer.com/embed/MN7A" width=480 height=362.000 frameBorder="0" allowFullScreen></img><p><a href="https://gifer.com">via GIFER</a></p>
 
 ### Hi there 👋
 
