@@ -1,6 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/0DYipdNqJ5n4GYATKL/giphy.gif" width=380px height=330px/>
-
-### Hi, I'm Elliott 🤓
+### Hi, I'm Elliott 🤓 <img align="right" src="https://media.giphy.com/media/0DYipdNqJ5n4GYATKL/giphy.gif" width=380px height=330px/>
 
 I've been travelling around the last few years, but I've returned home and landed in front of my computer creating, debugging, and learning all that it takes to become a developer. As a recent Lighthouse Labs alumni I'm eager to find a workplace where I can learn and contribute. 
 
