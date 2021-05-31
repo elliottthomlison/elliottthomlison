@@ -8,5 +8,5 @@ I've been travelling around the last few years, but I've returned home and lande
 - 📫 You can reach me <a href="mailto: elliott.thomlison@gmail.com">here</a>
 - 🍟 Here is a link to my group's midterm project: <a href="https://github.com/elliottthomlison/Tapioca-Loca">Tapioca Loca</a>
 - 🤳 Here is a link to my group's final project: <a href="https://github.com/elliottthomlison/MiCasa">MiCasa</a>
-- 💸 Here is a link to my ecommerce project: <a href="https://github.com/elliottthomlison/Online-Store">Online Store</a>
-- 🎥 Here is a link to my movie project: <a href="https://github.com/elliottthomlison/Movie-Store">Movie Store</a> 
+- 💸 Here is a link to my ecommerce project: <a href="https://github.com/elliottthomlison/MiTienda">MiTienda</a>
+- 🎥 Here is a link to my movie project: <a href="https://github.com/elliottthomlison/MiCine">MiCine</a> 
