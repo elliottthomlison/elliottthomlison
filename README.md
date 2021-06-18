@@ -11,3 +11,5 @@ I've been travelling around the last few years, but I've returned home and lande
 - 🤳 Here is a link to my group's final project: <a href="https://github.com/elliottthomlison/MiCasa">MiCasa</a>
 - 💸 Here is a link to my ecommerce project: <a href="https://github.com/elliottthomlison/MiTienda">MiTienda</a>
 - 🎥 Here is a link to my movie project: <a href="https://github.com/elliottthomlison/MiCine">MiCine</a> 
+
+![](https://komarev.com/ghpvc/?username=elliottthomlison&color=blue)
