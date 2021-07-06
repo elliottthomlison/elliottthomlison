@@ -3,7 +3,6 @@
 I've been travelling around the last few years, but I've returned home and landed in front of my computer. I've been creating, debugging, and learning all that it takes to become a fullstack developer. As a recent Lighthouse Labs alumni I'm eager to find a workplace where I can learn and contribute. 
 
 - 🔭 Check out my <a href="http://ethomlison.netlify.app">portfolio</a> if you wish to be dazzled
-<!-- - 🌱 I’m learning computer science basics via <a href="https://cs50.harvard.edu/x/2021/">Harvard's CS50</a> and fine tuning my front-end skills via various Udemy courses, like this one <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux">here</a> and like little projects <a href="https://github.com/elliottthomlison/React-Projects">here</a> -->
 - 🌱 I'm learning about Vue, Laravel, and MariaDB for my role as a junior fullstack developer with TLC Solutions Inc.
 - 🙏 Fun fact: I'm learning Mandarin at the moment, which if you're curious, is definitely more straight forward than Korean yet less so than French
 - 📫 You can reach me <a href="mailto: elliott.thomlison@gmail.com">here</a>
@@ -15,3 +14,5 @@ I've been travelling around the last few years, but I've returned home and lande
 
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=elliottthomlison&show_icons=true&theme=nord) -->
 <!-- ![](https://komarev.com/ghpvc/?username=elliottthomlison&color=blue) -->
+
+<!-- - 🌱 I’m learning computer science basics via <a href="https://cs50.harvard.edu/x/2021/">Harvard's CS50</a> and fine tuning my front-end skills via various Udemy courses, like this one <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux">here</a> and like little projects <a href="https://github.com/elliottthomlison/React-Projects">here</a> -->
