@@ -12,4 +12,5 @@ I've been travelling around the last few years, but I've returned home and lande
 - 💸 Here is a link to my ecommerce project: <a href="https://github.com/elliottthomlison/MiTienda">MiTienda</a>
 - 🎥 Here is a link to my movie project: <a href="https://github.com/elliottthomlison/MiCine">MiCine</a> 
 
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=elliottthomlison&show_icons=true&theme=nord) -->
 <!-- ![](https://komarev.com/ghpvc/?username=elliottthomlison&color=blue) -->
