@@ -1,6 +1,6 @@
 ### Hi, I'm Elliott 🤓 <img align="right" src="https://media1.giphy.com/media/IpeYSEZshTefe/giphy.gif" width=400px height=320px/>
 
-I've been travelling around the last few years, but I've returned home and landed in front of my computer. I've been creating, debugging, and learning all that it takes to become a frontend developer. As a recent Lighthouse Labs alumni I'm eager to find a workplace where I can learn and contribute. 
+I've been travelling around the last few years, but I've returned home and landed in front of my computer. I've been creating, debugging, and learning all that it takes to become a fullstack developer. As a recent Lighthouse Labs alumni I'm eager to find a workplace where I can learn and contribute. 
 
 - 🔭 Check out my <a href="http://ethomlison.netlify.app">portfolio</a> if you wish to be dazzled
 - 🌱 I’m learning computer science basics via <a href="https://cs50.harvard.edu/x/2021/">Harvard's CS50</a> and fine tuning my front-end skills via various Udemy courses, like this one <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux">here</a> and like little projects <a href="https://github.com/elliottthomlison/React-Projects">here</a>
