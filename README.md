@@ -7,8 +7,8 @@ I've been travelling around the last few years, but I've returned home and lande
 - 🙏 Fun fact: I'm learning Mandarin at the moment, which if you're curious, is definitely more straight forward than Korean yet less so than French
 - 📫 You can reach me <a href="mailto: elliott.thomlison@gmail.com">here</a>
 - 👨‍💻 Here are links to my projects built during Lighthouse Lab's Web Development Bootcamp: <a href=https://github.com/elliottthomlison/TiniestLittleApp>TiniestLittleApp,</a><a href=https://github.com/elliottthomlison/Tweeter> Tweeter,</a><a href=https://github.com/elliottthomlison/Interview_Scheduler> Interview Scheduler,</a> and<a href=https://github.com/elliottthomlison/Jungle> Jungle</a>
-- 🍟 Here is a link to my group's midterm project: <a href="https://github.com/elliottthomlison/Tapioca-Loca">Tapioca Loca</a>
-- 🤳 Here is a link to my group's final project: <a href="https://github.com/elliottthomlison/MiCasa">MiCasa</a>
+- 🍟 Here is a link to my midterm project from Lighthouse Labs: <a href="https://github.com/elliottthomlison/Tapioca-Loca">Tapioca Loca</a>
+- 🤳 Here is a link to my final project from Lighthouse Labs: <a href="https://github.com/elliottthomlison/MiCasa">MiCasa</a>
 - 💸 Here is a link to my e-commerce project: <a href="https://github.com/elliottthomlison/MiTienda">MiTienda</a>
 - 🎥 Here is a link to my movie project: <a href="https://github.com/elliottthomlison/MiCine">MiCine</a> 
 
