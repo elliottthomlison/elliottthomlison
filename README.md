@@ -6,7 +6,7 @@ I've been travelling around the last few years, but I've returned home and lande
 - 🌱 I'm learning about Vue, Laravel, and MariaDB for my role as a junior fullstack developer with TLC Solutions
 - 🙏 Fun fact: I'm learning Mandarin at the moment, which if you're curious, is definitely more straight forward than Korean yet less so than French
 - 📫 You can reach me <a href="mailto: elliott.thomlison@gmail.com">here</a>
-- 👨‍💻 Here are links to my projects built during Lighthouse Lab's Web Development Bootcamp: <a href=https://github.com/elliottthomlison/TiniestLittleApp>TiniestLittleApp,</a><a href=https://github.com/elliottthomlison/Tweeter> Tweeter,</a><a href=https://github.com/elliottthomlison/Interview_Scheduler> Interview Scheduler,</a> and<a href=https://github.com/elliottthomlison/Jungle> Jungle</a>
+- 👨‍💻 Here are links to my projects that were built during Lighthouse Lab's Web Development Bootcamp: <a href=https://github.com/elliottthomlison/TiniestLittleApp>TiniestLittleApp,</a><a href=https://github.com/elliottthomlison/Tweeter> Tweeter,</a><a href=https://github.com/elliottthomlison/Interview_Scheduler> Interview Scheduler,</a> and<a href=https://github.com/elliottthomlison/Jungle> Jungle</a>
 - 🍟 Here is a link to my midterm project from my time at Lighthouse Labs: <a href="https://github.com/elliottthomlison/Tapioca-Loca">Tapioca Loca</a>
 - 🤳 Here is a link to my final project from my time at Lighthouse Labs: <a href="https://github.com/elliottthomlison/MiCasa">MiCasa</a>
 - 💸 Here is a link to my e-commerce project: <a href="https://github.com/elliottthomlison/MiTienda">MiTienda</a>
