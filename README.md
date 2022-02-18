@@ -5,7 +5,7 @@ I've been travelling around the last few years, but I've returned home and lande
 - 🔭 Check out my <a href="http://ethomlison.netlify.app">portfolio</a> if you wish to be dazzled
 - 🌱 I'm currently learning Vue, Laravel, SQL, and much more for my role as a full stack developer with TLC Solutions. You can see my <a href="https://github.com/elliottthomlison/TLC-Preparation">projects</a> or read about the <a href="https://www.tlcsolutions.ca/meet-the-team">company</a>
 - 🙏 Fun fact: I'm learning Mandarin at the moment, which if you're curious, is surprisingly straightforward in contrast to Korean
-- 📫 You can <a href="mailto: elliott.thomlison@gmail.com">email</a> me if you'd like to reach out  me 
+- 📫 You can <a href="mailto: elliott.thomlison@gmail.com">email</a> me if you'd like to reach out 
 - 👨‍💻 Here are links to my projects that were built during Lighthouse Lab's Web Development Bootcamp: <a href=https://github.com/elliottthomlison/TiniestLittleApp>TiniestLittleApp,</a><a href=https://github.com/elliottthomlison/Tweeter> Tweeter,</a><a href=https://github.com/elliottthomlison/Interview_Scheduler> Interview Scheduler,</a> and<a href=https://github.com/elliottthomlison/Jungle> Jungle</a>
 - 🍟 Here is a link to my midterm project from my time at Lighthouse Labs: <a href="https://github.com/elliottthomlison/Tapioca-Loca">Tapioca Loca</a>
 - 🤳 Here is a link to my final project from my time at Lighthouse Labs: <a href="https://github.com/elliottthomlison/MiCasa">MiCasa</a>
