@@ -1,11 +1,11 @@
 ### Hi, I'm Elliott 🤓 <img align="right" src="https://media1.giphy.com/media/IpeYSEZshTefe/giphy.gif" width=400px height=320px/>
 
-I've been travelling around the last few years, but I've returned home and landed in front of my computer. I've been creating, debugging, and learning all that it takes to become a full stack developer. As a recent Lighthouse Labs alumni I'm eager to find a workplace where I can learn and contribute. 
+I've been travelling around the last few years, but I've returned home and landed in front of my computer. I've been creating, debugging, and learning all that it takes to become a full stack developer. As a Lighthouse Labs alumni I'm eager to find a workplace where I can learn and contribute. 
 
 - 🔭 Check out my <a href="http://ethomlison.netlify.app">portfolio</a> if you wish to be dazzled
-- 🌱 I'm currently learning Vue, Laravel, SQL, and much more for my role as a junior full stack developer with TLC Solutions which you can see <a href="https://github.com/elliottthomlison/TLC-Preparation">here</a> and can check out the company <a href="https://www.tlcsolutions.ca/meet-the-team">here</a>
-- 🙏 Fun fact: I'm learning Mandarin at the moment, which if you're curious, is surprisingly straightforward if you look past all the tones
-- 📫 You can reach me <a href="mailto: elliott.thomlison@gmail.com">here</a>
+- 🌱 I'm currently learning Vue, Laravel, SQL, and much more for my role as a full stack developer with TLC Solutions. You can see my <a href="https://github.com/elliottthomlison/TLC-Preparation">projects</a> or read about the <a href="https://www.tlcsolutions.ca/meet-the-team">company</a>
+- 🙏 Fun fact: I'm learning Mandarin at the moment, which if you're curious, is surprisingly straightforward in contrast to Korean
+- 📫 You can <a href="mailto: elliott.thomlison@gmail.com">email</a> me if you'd like to reach out  me 
 - 👨‍💻 Here are links to my projects that were built during Lighthouse Lab's Web Development Bootcamp: <a href=https://github.com/elliottthomlison/TiniestLittleApp>TiniestLittleApp,</a><a href=https://github.com/elliottthomlison/Tweeter> Tweeter,</a><a href=https://github.com/elliottthomlison/Interview_Scheduler> Interview Scheduler,</a> and<a href=https://github.com/elliottthomlison/Jungle> Jungle</a>
 - 🍟 Here is a link to my midterm project from my time at Lighthouse Labs: <a href="https://github.com/elliottthomlison/Tapioca-Loca">Tapioca Loca</a>
 - 🤳 Here is a link to my final project from my time at Lighthouse Labs: <a href="https://github.com/elliottthomlison/MiCasa">MiCasa</a>
