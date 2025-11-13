@@ -21,16 +21,20 @@ I specialize in building full-stack web applications from the ground up—handli
 ## **💻 Current Projects**
 
 **[Glacial Gains]**  
-Fitness tracking app with Next.js 14, TypeScript, Prisma, PostgreSQL, Tailwind CSS
+A fitness tracking app that I am in the process of building to level up my fitness journey and my coding skills while replacing my Google Document file I currently use.  
+**Stack:** Next.js 14's app router, TypeScript, Prisma, and Tailwind CSS
 
 **[Peanut Journal]**  
-Couple's journaling app with Laravel, PHP, MySQL, Blade templating
+A couple's journaling app that is being built to enhance the journaling I am already doing daily with my partner on a three column Google Document.  
+**Stack:** Laravel, PHP, PostgreSQL 
 
-## **💼 Experience**
+**💼 Experience**
 
-**Full Stack Developer** @ Inspired Networks (Current) – Internal tools, WordPress plugins, e-commerce solutions
+**Full Stack Developer** @ Inspired Networks (Current)  
+Projects: Kudos (an internal app to boost morale), WordPress plugins (a Stripe connected ecommerce enhancement), a printer connected app to print vouchers, and a Adobe Ebook reader printing app
 
-**Full Stack Developer** @ Acro Commerce – Monorepo migration, 15+ React components, accessibility standards
+**Full Stack Developer** @ Acro Commerce  
+Projects: Massively contributed to an in-house design system and website starter kits, worked in small teams to create full e-commerce website solutions
 
 [Resume](https://www.linkedin.com/in/elliott-thomlison) • [Portfolio](https://www.thomlison.vercel.app)
 
