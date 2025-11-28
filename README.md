@@ -40,11 +40,14 @@ Projects: Massively contributed to an in-house design system and website starter
 
 ## **🛠️ Tech Stack**
 
-**Frontend**: React • Next.js (12-14) • Vue.js • TypeScript • Tailwind CSS • Mantine
-**Backend**: Node.js • Laravel • Express.js • Prisma • GraphQL • REST APIs
-**Data**: PostgreSQL • MySQL • MongoDB
-**Testing**: Cypress • Playwright • Vitest • Storybook
-**DevOps**: Docker • Kubernetes • Vercel • AWS • Git • CI/CD
+**Languages**: JavaScript (ES6+), TypeScript, Python, PHP, C#, SQL
+**Frontend**: React, Next.js (12-14), Vue.js, Redux, Tailwind CSS, Mantine, Styled Components
+**Backend**: Node.js, Laravel, Express.js, Prisma, GraphQL, REST APIs
+**Data**: MySQL, PostgreSQL, MongoDB
+**Testing** & Quality: Cypress, Playwright, Vitest, Jest, Storybook, TDD
+**DevOps** & Tools: Docker, Kubernetes, Turborepo, Vercel, AWS (S3, CloudFront), Git, CI/CD, MCP
+**CMS**: WordPress, Drupal, Elementor
+
 
 ## **📫 Connect**
 
