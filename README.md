@@ -40,14 +40,12 @@ Projects: Massively contributed to an in-house design system and website starter
 
 ## **🛠️ Tech Stack**
 
-**Frontend:** React • Next.js • Vue.js • TypeScript • Tailwind CSS  
-**Backend:** Node.js • Laravel • Prisma • PostgreSQL • MySQL • GraphQL  
-**Tools:** Git • Docker • Vercel • AWS • CI/CD • Storybook • Cypress
-
-**Currently Exploring:** Ruby on Rails • AI/ML integrations • Serverless architectures
+**Frontend**: React • Next.js (12-14) • Vue.js • TypeScript • Tailwind CSS • Mantine
+**Backend**: Node.js • Laravel • Express.js • Prisma • GraphQL • REST APIs
+**Data**: PostgreSQL • MySQL • MongoDB
+**Testing**: Cypress • Playwright • Vitest • Storybook
+**DevOps**: Docker • Kubernetes • Vercel • AWS • Git • CI/CD
 
 ## **📫 Connect**
 
-**Email:** elliott.thomlison@gmail.com | **Location:** Coquitlam, BC
-
-💡 *Open to full-time opportunities in modern full-stack development*
+📧 elliott.thomlison@gmail.com
